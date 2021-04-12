@@ -1,2 +1,2 @@
 # PandaChallenge
-Panda Challenge- Analysis of School Data
+Panda Challenge- Analysis of Retail Data
